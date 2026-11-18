@@ -1,6 +1,6 @@
 # Fig garden
 
-A vintage pastel garden look for Claude. It paints the desktop and mobile apps in sage greens and cream, with a deep green version for dark mode. Behind the conversation, tomato vines hang down both sides of the window and fig tree branches grow from the bottom corners, swaying slowly. The middle stays clear so text is easy to read.
+A vintage pastel garden look for Claude. It paints the desktop and mobile apps in sage greens and cream, with a deep green version for dark mode. Behind the conversation, tomato vines hang down both sides of the window and fig tree branches grow from the bottom corners, swaying slowly. The middle stays clear so text is easy to read. Each reply sits on a tinted sage card with an outline, and the app's side panels blur the drawing behind them.
 
 The terminal and editor extensions do not draw themes, so nothing changes there.
 
