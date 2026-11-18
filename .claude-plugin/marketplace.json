@@ -1,0 +1,5 @@
+{
+  "name": "fig-garden",
+  "owner": { "name": "aif-drake" },
+  "plugins": [{ "name": "fig-garden", "source": "./" }]
+}
